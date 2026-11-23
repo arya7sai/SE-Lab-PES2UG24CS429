@@ -1,0 +1,48 @@
+Issue Id,Parent Id,Issue Type,Summary,Description,Priority,Story point estimate,Sprint
+1,,Epic,Epic 1: Challenge Management,"Enable the administrator to create and manage monthly reading challenges with books, deadlines and achievement criteria.",Medium,,
+2,,Epic,Epic 2: Member Reading Experience,"Enable members to find challenges, join them and record their reading progress and history.",Medium,,
+3,,Epic,Epic 3: Reviews & Discussions,Enable members to review books and discuss them with other members.,Medium,,
+4,,Epic,Epic 4: Leaderboard & Achievements,Motivate members by ranking them on completed books and challenge achievements.,Medium,,
+5,,Epic,Epic 5: Community Moderation,Enable the administrator to keep discussions respectful and restrict admin tools to admins.,Medium,,
+111,1,Story,Story 1.1: Create Reading Challenge,"As a club administrator,
+I want to create a reading challenge by selecting books,
+So that members have a monthly challenge to take part in.",High,5,Sprint 1
+112,1,Story,Story 1.2: Set Deadlines & Achievement Criteria,"As a club administrator,
+I want to set reading deadlines and define achievement criteria for a challenge,
+So that members know what to finish and by when.",High,3,Sprint 1
+113,1,Story,Story 1.3: Edit or Close a Challenge,"As a club administrator,
+I want to edit or close a challenge,
+So that I can correct mistakes or end a challenge early.",Low,2,Sprint 2
+121,2,Story,Story 2.1: Browse Available Challenges,"As a member,
+I want to browse the available reading challenges,
+So that I can choose one that interests me.",High,3,Sprint 1
+122,2,Story,Story 2.2: Join a Challenge,"As a member,
+I want to join a reading challenge,
+So that my reading counts towards that challenge.",High,2,Sprint 1
+123,2,Story,Story 2.3: Mark Reading Progress,"As a member,
+I want to mark my progress and mark a book as completed,
+So that my achievements are tracked.",High,5,Sprint 1
+124,2,Story,Story 2.4: View Reading History,"As a member,
+I want to view my reading history,
+So that I can see all the books I have finished.",Medium,3,Sprint 2
+131,3,Story,Story 3.1: Submit Review & Rating,"As a member who has completed a book,
+I want to submit a review and a 1 to 5 rating,
+So that I can share my opinion with other readers.",Medium,5,Sprint 2
+132,3,Story,Story 3.2: Post Comment on a Book,"As a member,
+I want to post a comment in a book's discussion,
+So that I can talk about the book with others.",Medium,3,Sprint 2
+133,3,Story,Story 3.3: Reply to Another Member,"As a member,
+I want to reply to another member's comment,
+So that conversations stay organised in threads.",Medium,2,Sprint 2
+141,4,Story,Story 4.1: View Leaderboard,"As a member,
+I want to view a leaderboard ranked by completed books and challenge achievements,
+So that I feel motivated to read more.",Medium,5,Sprint 2
+142,4,Story,Story 4.2: Earn Challenge Achievement,"As a member,
+I want to be awarded an achievement when I meet a challenge's criteria,
+So that my effort is recognised.",Low,3,Sprint 2
+151,5,Story,Story 5.1: Remove Inappropriate Post,"As a club administrator,
+I want to remove inappropriate posts from discussions,
+So that the community stays respectful.",High,3,Sprint 1
+152,5,Story,Story 5.2: Suspend Repeat Violators,"As a club administrator,
+I want to suspend members who repeatedly violate community rules,
+So that they cannot keep harming the discussions.",High,5,Sprint 1
